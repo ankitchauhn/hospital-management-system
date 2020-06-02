@@ -1,0 +1,2 @@
+# hospital-management-system
+This main objective of the system is to computerize the maintenance of the patient details and billing section in the hospital. It also includes the details about the laboratory checkups. Structure:- In the proposed system, the administrator can insert, delete and modify the patient records as per the requirements. The laboratory reports and billing details can be easily maintained in this system. This project will help to smoother the process of the hospital activities.
